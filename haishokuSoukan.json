@@ -1,0 +1,1897 @@
+{"DDBB":[
+	{"colores":[
+		{"colorId":1, "userId":1, "colorName":"hermosa pink", "hexValue":"#f7c9d5"},
+		{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+		{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"},
+		{"colorId":4, "userId":1, "colorName":"fawn", "hexValue":"#d6b8aa"},
+		{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+		{"colorId":6, "userId":1, "colorName":"coral red", "hexValue":"#f09082"},
+		{"colorId":7, "userId":1, "colorName":"fresh color", "hexValue":"#f1947c"},
+		{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"},
+		{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+		{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"},
+		{"colorId":11, "userId":1, "colorName":"old rose", "hexValue":"#d46a75"},
+		{"colorId":12, "userId":1, "colorName":"euginia red", "hexValue":"#e05e53"},
+		{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+		{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+		{"colorId":15, "userId":1, "colorName":"vinaceous tawny", "hexValue":"#cb6012"},
+		{"colorId":16, "userId":1, "colorName":"jasper red", "hexValue":"#e74d0b"},
+		{"colorId":17, "userId":1, "colorName":"spectrum red", "hexValue":"#df0716"},
+		{"colorId":18, "userId":1, "colorName":"red orange", "hexValue":"#db3915"},
+		{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"},
+		{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+		{"colorId":21, "userId":1, "colorName":"ocher red", "hexValue":"#b45446"},
+		{"colorId":22, "userId":1, "colorName":"scarlet", "hexValue":"#cf2438"},
+		{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+		{"colorId":24, "userId":1, "colorName":"indian lake", "hexValue":"#ca3464"},
+		{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"},
+		{"colorId":26, "userId":1, "colorName":"pomegranate purple", "hexValue":"#bc0b50"},
+		{"colorId":27, "userId":1, "colorName":"hydrangea red", "hexValue":"#ab3a45"},
+		{"colorId":28, "userId":1, "colorName":"brick red", "hexValue":"#b03f16"},
+		{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+		{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"},
+		{"colorId":31, "userId":1, "colorName":"red", "hexValue":"#ad163b"},
+		{"colorId":32, "userId":1, "colorName":"brown", "hexValue":"#86431f"},
+		{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+		{"colorId":34, "userId":1, "colorName":"vandyke red", "hexValue":"#8c1d19"},
+		{"colorId":35, "userId":1, "colorName":"pansy purple", "hexValue":"#870836"},
+		{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+		{"colorId":37, "userId":1, "colorName":"violet red", "hexValue":"#5e2657"},
+		{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"},
+		{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+		{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+		{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+		{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+		{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"},
+		{"colorId":44, "userId":1, "colorName":"light pinkish cinnamon", "hexValue":"#face9d"},
+		{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+		{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"},
+		{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+		{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+		{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"},
+		{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+		{"colorId":51, "userId":1, "colorName":"isabella color", "hexValue":"#d0b06b"},
+		{"colorId":52, "userId":1, "colorName":"maple", "hexValue":"#d1ac6b"},
+		{"colorId":53, "userId":1, "colorName":"olive buff", "hexValue":"#ced19a"},
+		{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"},
+		{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"},
+		{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+		{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"},
+		{"colorId":58, "userId":1, "colorName":"pyrite yellow", "hexValue":"#d0ba48"},
+		{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"},
+		{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"},
+		{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+		{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+		{"colorId":63, "userId":1, "colorName":"apricot orange", "hexValue":"#f18f43"},
+		{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+		{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+		{"colorId":66, "userId":1, "colorName":"english red", "hexValue":"#d86310"},
+		{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"},
+		{"colorId":68, "userId":1, "colorName":"orange rufous", "hexValue":"#c76c0f"},
+		{"colorId":69, "userId":1, "colorName":"sulphine yellow", "hexValue":"#c9a800"},
+		{"colorId":70, "userId":1, "colorName":"khaki", "hexValue":"#c49007"},
+		{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"},
+		{"colorId":72, "userId":1, "colorName":"citrine", "hexValue":"#ad9d13"},
+		{"colorId":73, "userId":1, "colorName":"buffy citrine", "hexValue":"#9e8d43"},
+		{"colorId":74, "userId":1, "colorName":"dark citrine", "hexValue":"#978c56"},
+		{"colorId":75, "userId":1, "colorName":"light grayish olive", "hexValue":"#8e885e"},
+		{"colorId":76, "userId":1, "colorName":"kronbergs green", "hexValue":"#8c8d58"},
+		{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+		{"colorId":78, "userId":1, "colorName":"orange citrine", "hexValue":"#a37721"},
+		{"colorId":79, "userId":1, "colorName":"sudan brown", "hexValue":"#ad6b4c"},
+		{"colorId":80, "userId":1, "colorName":"olive green", "hexValue":"#71773a"},
+		{"colorId":81, "userId":1, "colorName":"light brownish olive", "hexValue":"#8b7445"},
+		{"colorId":82, "userId":1, "colorName":"deep grayish olive", "hexValue":"#6c6036"},
+		{"colorId":83, "userId":1, "colorName":"pale raw umber", "hexValue":"#7a5329"},
+		{"colorId":84, "userId":1, "colorName":"sepia", "hexValue":"#6d4e14"},
+		{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"},
+		{"colorId":86, "userId":1, "colorName":"mars brown", "hexValue":"#70350a"},
+		{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"},
+		{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+		{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"},
+		{"colorId":90, "userId":1, "colorName":"dark greenish glaucous", "hexValue":"#bfc9ac"},
+		{"colorId":91, "userId":1, "colorName":"yellow green", "hexValue":"#b6d565"},
+		{"colorId":92, "userId":1, "colorName":"light green yellow", "hexValue":"#ccd63d"},
+		{"colorId":93, "userId":1, "colorName":"night green", "hexValue":"#89c122"},
+		{"colorId":94, "userId":1, "colorName":"olive yellow", "hexValue":"#aba64c"},
+		{"colorId":95, "userId":1, "colorName":"artemisia green", "hexValue":"#749793"},
+		{"colorId":96, "userId":1, "colorName":"andover green", "hexValue":"#708277"},
+		{"colorId":97, "userId":1, "colorName":"rainette green", "hexValue":"#84925e"},
+		{"colorId":98, "userId":1, "colorName":"chromium green", "hexValue":"#7b9c6e"},
+		{"colorId":99, "userId":1, "colorName":"pistachio green", "hexValue":"#649278"},
+		{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+		{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+		{"colorId":102, "userId":1, "colorName":"light porcelain green", "hexValue":"#008e89"},
+		{"colorId":103, "userId":1, "colorName":"green", "hexValue":"#3a9864"},
+		{"colorId":104, "userId":1, "colorName":"dull viridian green", "hexValue":"#008e5c"},
+		{"colorId":105, "userId":1, "colorName":"oil green", "hexValue":"#849626"},
+		{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"},
+		{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+		{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+		{"colorId":109, "userId":1, "colorName":"blackish olive", "hexValue":"#48583e"},
+		{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+		{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"},
+		{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+		{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+		{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+		{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+		{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"},
+		{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"},
+		{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"},
+		{"colorId":119, "userId":1, "colorName":"peacock blue", "hexValue":"#008c97"},
+		{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+		{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"},
+		{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+		{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+		{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"},
+		{"colorId":125, "userId":1, "colorName":"dark medici blue", "hexValue":"#527177"},
+		{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+		{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+		{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"},
+		{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"},
+		{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+		{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+		{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"},
+		{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"},
+		{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"},
+		{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+		{"colorId":136, "userId":1, "colorName":"laelia pink", "hexValue":"#cf97ab"},
+		{"colorId":137, "userId":1, "colorName":"lilac", "hexValue":"#bf87b0"},
+		{"colorId":138, "userId":1, "colorName":"eupatorium purple", "hexValue":"#c1518d"},
+		{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+		{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+		{"colorId":141, "userId":1, "colorName":"dull blue violet", "hexValue":"#816e9d"},
+		{"colorId":142, "userId":1, "colorName":"dark soft violet", "hexValue":"#635b98"},
+		{"colorId":143, "userId":1, "colorName":"blue violet", "hexValue":"#624498"},
+		{"colorId":144, "userId":1, "colorName":"purple drab", "hexValue":"#8e585a"},
+		{"colorId":145, "userId":1, "colorName":"plumbeous", "hexValue":"#72737c"},
+		{"colorId":146, "userId":1, "colorName":"vernonia purple", "hexValue":"#94495e"},
+		{"colorId":147, "userId":1, "colorName":"dark slate purple", "hexValue":"#703e51"},
+		{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"},
+		{"colorId":149, "userId":1, "colorName":"violet carmine", "hexValue":"#713645"},
+		{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+		{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+		{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+		{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"},
+		{"colorId":154, "userId":1, "colorName":"white", "hexValue":"#ffffff"},
+		{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+		{"colorId":156, "userId":1, "colorName":"mineral gray", "hexValue":"#afbbb5"},
+		{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"},
+		{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+		{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+]},
+	{"combinaciones":[
+		{"combinacionId":1, "userId":1, "combinacionElementos":[
+			{"colorId":66, "userId":1, "colorName":"english red", "hexValue":"#d86310"},
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"}
+		]},
+		{"combinacionId":2, "userId":1, "combinacionElementos":[
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"}
+		]},
+		{"combinacionId":3, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":4, "userId":1, "combinacionElementos":[
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+			{"colorId":51, "userId":1, "colorName":"isabella color", "hexValue":"#d0b06b"}
+		]},
+		{"combinacionId":5, "userId":1, "combinacionElementos":[
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"}
+		]},
+		{"combinacionId":6, "userId":1, "combinacionElementos":[
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"}
+		]},
+		{"combinacionId":7, "userId":1, "combinacionElementos":[
+			{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"},
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"}
+		]},
+		{"combinacionId":8, "userId":1, "combinacionElementos":[
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"},
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"}
+		]},
+		{"combinacionId":9, "userId":1, "combinacionElementos":[
+			{"colorId":141, "userId":1, "colorName":"dull blue violet", "hexValue":"#816e9d"},
+			{"colorId":37, "userId":1, "colorName":"violet red", "hexValue":"#5e2657"}
+		]},
+		{"combinacionId":10, "userId":1, "combinacionElementos":[
+			{"colorId":74, "userId":1, "colorName":"dark citrine", "hexValue":"#978c56"},
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"}
+		]},
+		{"combinacionId":11, "userId":1, "combinacionElementos":[
+			{"colorId":156, "userId":1, "colorName":"mineral gray", "hexValue":"#afbbb5"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"}			
+		]},
+		{"combinacionId":12, "userId":1, "combinacionElementos":[
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+			{"colorId":51, "userId":1, "colorName":"isabella color", "hexValue":"#d0b06b"}			
+		]},
+		{"combinacionId":13, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":146, "userId":1, "colorName":"vernonia purple", "hexValue":"#94495e"}
+		]},
+		{"combinacionId":14, "userId":1, "combinacionElementos":[
+			{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"}
+		]},
+		{"combinacionId":15, "userId":1, "combinacionElementos":[
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"}
+		]},
+		{"combinacionId":16, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":34, "userId":1, "colorName":"vandyke red", "hexValue":"#8c1d19"}
+		]},
+		{"combinacionId":17, "userId":1, "combinacionElementos":[
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"}
+		]},
+		{"combinacionId":18, "userId":1, "combinacionElementos":[
+			{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"},
+			{"colorId":4, "userId":1, "colorName":"fawn", "hexValue":"#d6b8aa"}
+		]},
+		{"combinacionId":19, "userId":1, "combinacionElementos":[
+			{"colorId":93, "userId":1, "colorName":"night green", "hexValue":"#89c122"},
+			{"colorId":86, "userId":1, "colorName":"mars brown", "hexValue":"#70350a"}
+		]},
+		{"combinacionId":20, "userId":1, "combinacionElementos":[
+			{"colorId":136, "userId":1, "colorName":"laelia pink", "hexValue":"#cf97ab"},
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"}
+		]},
+		{"combinacionId":21, "userId":1, "combinacionElementos":[
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"}
+		]},
+		{"combinacionId":22, "userId":1, "combinacionElementos":[
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},		
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"}
+		]},
+		{"combinacionId":23, "userId":1, "combinacionElementos":[
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"}
+		]},
+		{"combinacionId":24, "userId":1, "combinacionElementos":[
+			{"colorId":146, "userId":1, "colorName":"vernonia purple", "hexValue":"#94495e"},
+			{"colorId":84, "userId":1, "colorName":"sepia", "hexValue":"#6d4e14"}
+		]},
+		{"combinacionId":25, "userId":1, "combinacionElementos":[
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"},
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"}
+		]},
+		{"combinacionId":26, "userId":1, "combinacionElementos":[
+			{"colorId":83, "userId":1, "colorName":"pale raw umber", "hexValue":"#7a5329"},
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"}
+		]},
+		{"combinacionId":27, "userId":1, "combinacionElementos":[
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"}
+		]},
+		{"combinacionId":28, "userId":1, "combinacionElementos":[
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"},
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"}
+		]},
+		{"combinacionId":29, "userId":1, "combinacionElementos":[
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":76, "userId":1, "colorName":"kronbergs green", "hexValue":"#8c8d58"}
+		]},
+		{"combinacionId":30, "userId":1, "combinacionElementos":[
+			{"colorId":156, "userId":1, "colorName":"mineral gray", "hexValue":"#afbbb5"},
+			{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"}
+		]},
+		{"combinacionId":31, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":18, "userId":1, "colorName":"red orange", "hexValue":"#db3915"}
+		]},
+		{"combinacionId":32, "userId":1, "combinacionElementos":[
+			{"colorId":93, "userId":1, "colorName":"night green", "hexValue":"#89c122"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"}
+		]},
+		{"combinacionId":33, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"}
+		]},
+		{"combinacionId":34, "userId":1, "combinacionElementos":[
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":84, "userId":1, "colorName":"sepia", "hexValue":"#6d4e14"}
+		]},
+		{"combinacionId":35, "userId":1, "combinacionElementos":[
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"}
+		]},
+		{"combinacionId":36, "userId":1, "combinacionElementos":[
+			{"colorId":69, "userId":1, "colorName":"sulphine yellow", "hexValue":"#c9a800"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":37, "userId":1, "combinacionElementos":[
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+			{"colorId":28, "userId":1, "colorName":"brick red", "hexValue":"#b03f16"}
+		]},
+		{"combinacionId":38, "userId":1, "combinacionElementos":[
+			{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"}
+		]},
+		{"combinacionId":39, "userId":1, "combinacionElementos":[
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"}
+		]},
+		{"combinacionId":40, "userId":1, "combinacionElementos":[
+			{"colorId":15, "userId":1, "colorName":"vinaceous tawny", "hexValue":"#cb6012"},
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"}
+		]},
+		{"combinacionId":41, "userId":1, "combinacionElementos":[
+			{"colorId":74, "userId":1, "colorName":"dark citrine", "hexValue":"#978c56"},
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"}
+		]},
+		{"combinacionId":42, "userId":1, "combinacionElementos":[
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"}
+		]},
+		{"combinacionId":43, "userId":1, "combinacionElementos":[
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"}
+		]},
+		{"combinacionId":44, "userId":1, "combinacionElementos":[
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"},
+			{"colorId":102, "userId":1, "colorName":"light porcelain green", "hexValue":"#008e89"}
+		]},
+		{"combinacionId":45, "userId":1, "combinacionElementos":[
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"}
+		]},
+		{"combinacionId":46, "userId":1, "combinacionElementos":[
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+		]},
+		{"combinacionId":47, "userId":1, "combinacionElementos":[
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"}
+		]},
+		{"combinacionId":48, "userId":1, "combinacionElementos":[
+			{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"}
+		]},
+		{"combinacionId":49, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"}
+		]},
+		{"combinacionId":50, "userId":1, "combinacionElementos":[
+			{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"}
+		]},
+		{"combinacionId":51, "userId":1, "combinacionElementos":[
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"}
+		]},
+		{"combinacionId":52, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":53, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"}
+		]},
+		{"combinacionId":54, "userId":1, "combinacionElementos":[
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"}
+		]},
+		{"combinacionId":55, "userId":1, "combinacionElementos":[
+			{"colorId":11, "userId":1, "colorName":"old rose", "hexValue":"#d46a75"},
+			{"colorId":154, "userId":1, "colorName":"white", "hexValue":"#ffffff"}
+		]},
+		{"combinacionId":56, "userId":1, "combinacionElementos":[
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"}
+		]},
+		{"combinacionId":57, "userId":1, "combinacionElementos":[
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"}
+		]},
+		{"combinacionId":58, "userId":1, "combinacionElementos":[
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"}
+		]},
+		{"combinacionId":59, "userId":1, "combinacionElementos":[
+			{"colorId":72, "userId":1, "colorName":"citrine", "hexValue":"#ad9d13"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"}
+		]},
+		{"combinacionId":60, "userId":1, "combinacionElementos":[
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"}
+		]},
+		{"combinacionId":61, "userId":1, "combinacionElementos":[
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+			{"colorId":92, "userId":1, "colorName":"light green yellow", "hexValue":"#ccd63d"}
+		]},
+		{"combinacionId":62, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"}
+		]},
+		{"combinacionId":63, "userId":1, "combinacionElementos":[
+			{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"},
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"}
+		]},
+		{"combinacionId":64, "userId":1, "combinacionElementos":[
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":142, "userId":1, "colorName":"dark soft violet", "hexValue":"#635b98"}
+		]},
+		{"combinacionId":65, "userId":1, "combinacionElementos":[
+			{"colorId":69, "userId":1, "colorName":"sulphine yellow", "hexValue":"#c9a800"},
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"}
+		]},
+		{"combinacionId":66, "userId":1, "combinacionElementos":[
+			{"colorId":80, "userId":1, "colorName":"olive green", "hexValue":"#71773a"},
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"}
+		]},
+		{"combinacionId":67, "userId":1, "combinacionElementos":[
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"}
+		]},
+		{"combinacionId":68, "userId":1, "combinacionElementos":[
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"},
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"}
+		]},
+		{"combinacionId":69, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"}
+		]},
+		{"combinacionId":70, "userId":1, "combinacionElementos":[
+			{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":71, "userId":1, "combinacionElementos":[
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+			{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"}
+		]},
+		{"combinacionId":72, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":73, "userId":1, "combinacionElementos":[
+			{"colorId":97, "userId":1, "colorName":"rainette green", "hexValue":"#84925e"},
+			{"colorId":83, "userId":1, "colorName":"pale raw umber", "hexValue":"#7a5329"}
+		]},
+		{"combinacionId":74, "userId":1, "combinacionElementos":[
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+			{"colorId":98, "userId":1, "colorName":"chromium green", "hexValue":"#7b9c6e"}
+		]},
+		{"combinacionId":75, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"}
+		]},
+		{"combinacionId":76, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"}
+		]},
+		{"combinacionId":77, "userId":1, "combinacionElementos":[
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"}
+		]},
+		{"combinacionId":78, "userId":1, "combinacionElementos":[
+			{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"},
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"}
+		]},
+		{"combinacionId":79, "userId":1, "combinacionElementos":[
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"}
+		]},
+		{"combinacionId":80, "userId":1, "combinacionElementos":[
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"}
+		]},
+		{"combinacionId":81, "userId":1, "combinacionElementos":[
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"}
+		]},
+		{"combinacionId":82, "userId":1, "combinacionElementos":[
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"}
+		]},
+		{"combinacionId":83, "userId":1, "combinacionElementos":[
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"},
+			{"colorId":53, "userId":1, "colorName":"olive buff", "hexValue":"#ced19a"}
+		]},
+		{"combinacionId":84, "userId":1, "combinacionElementos":[
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"},
+			{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"}
+		]},
+		{"combinacionId":85, "userId":1, "combinacionElementos":[
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":15, "userId":1, "colorName":"vinaceous tawny", "hexValue":"#cb6012"}
+		]},
+		{"combinacionId":86, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"}
+		]},
+		{"combinacionId":87, "userId":1, "combinacionElementos":[
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"}
+		]},
+		{"combinacionId":88, "userId":1, "combinacionElementos":[
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"}
+		]},
+		{"combinacionId":89, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"}
+		]},
+		{"combinacionId":90, "userId":1, "combinacionElementos":[
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"}
+		]},
+		{"combinacionId":91, "userId":1, "combinacionElementos":[
+			{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"},
+			{"colorId":68, "userId":1, "colorName":"orange rufous", "hexValue":"#c76c0f"}
+		]},
+		{"combinacionId":92, "userId":1, "combinacionElementos":[
+			{"colorId":6, "userId":1, "colorName":"coral red", "hexValue":"#f09082"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"}
+		]},
+		{"combinacionId":93, "userId":1, "combinacionElementos":[
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":72, "userId":1, "colorName":"citrine", "hexValue":"#ad9d13"}
+		]},
+		{"combinacionId":94, "userId":1, "combinacionElementos":[
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"}
+		]},
+		{"combinacionId":95, "userId":1, "combinacionElementos":[
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"}
+		]},
+		{"combinacionId":96, "userId":1, "combinacionElementos":[
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"}
+		]},
+		{"combinacionId":97, "userId":1, "combinacionElementos":[
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"}
+		]},
+		{"combinacionId":98, "userId":1, "combinacionElementos":[
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"}
+		]},
+		{"combinacionId":99, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"}
+		]},
+		{"combinacionId":100, "userId":1, "combinacionElementos":[
+			{"colorId":73, "userId":1, "colorName":"buffy citrine", "hexValue":"#9e8d43"},
+			{"colorId":141, "userId":1, "colorName":"dull blue violet", "hexValue":"#816e9d"}
+		]},
+		{"combinacionId":101, "userId":1, "combinacionElementos":[
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"}
+		]},
+		{"combinacionId":102, "userId":1, "combinacionElementos":[
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":68, "userId":1, "colorName":"orange rufous", "hexValue":"#c76c0f"}
+		]},
+		{"combinacionId":103, "userId":1, "combinacionElementos":[
+			{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"},
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"}
+		]},
+		{"combinacionId":104, "userId":1, "combinacionElementos":[
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"}
+		]},
+		{"combinacionId":105, "userId":1, "combinacionElementos":[
+			{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"},
+			{"colorId":98, "userId":1, "colorName":"chromium green", "hexValue":"#7b9c6e"}
+		]},
+		{"combinacionId":106, "userId":1, "combinacionElementos":[
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"}
+		]},
+		{"combinacionId":107, "userId":1, "combinacionElementos":[
+			{"colorId":75, "userId":1, "colorName":"light grayish olive", "hexValue":"#8e885e"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"}
+		]},
+		{"combinacionId":108, "userId":1, "combinacionElementos":[
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":28, "userId":1, "colorName":"brick red", "hexValue":"#b03f16"}
+		]},
+		{"combinacionId":109, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":109, "userId":1, "colorName":"blackish olive", "hexValue":"#48583e"}
+		]},
+		{"combinacionId":110, "userId":1, "combinacionElementos":[
+			{"colorId":32, "userId":1, "colorName":"brown", "hexValue":"#86431f"},
+			{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"}
+		]},
+		{"combinacionId":111, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":91, "userId":1, "colorName":"yellow green", "hexValue":"#b6d565"}
+		]},
+		{"combinacionId":112, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"}
+		]},
+		{"combinacionId":113, "userId":1, "combinacionElementos":[
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"},
+			{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"}
+		]},
+		{"combinacionId":114, "userId":1, "combinacionElementos":[
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"}
+		]},
+		{"combinacionId":115, "userId":1, "combinacionElementos":[
+			{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"}
+		]},
+		{"combinacionId":116, "userId":1, "combinacionElementos":[
+			{"colorId":143, "userId":1, "colorName":"blue violet", "hexValue":"#624498"},
+			{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"}
+		]},
+		{"combinacionId":117, "userId":1, "combinacionElementos":[
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+		]},
+		{"combinacionId":118, "userId":1, "combinacionElementos":[
+			{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"}
+		]},
+		{"combinacionId":119, "userId":1, "combinacionElementos":[
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"}
+		]},
+		{"combinacionId":120, "userId":1, "combinacionElementos":[
+			{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"},
+			{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"}
+		]},
+		{"combinacionId":121, "userId":1, "combinacionElementos":[
+			{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+			{"colorId":32, "userId":1, "colorName":"brown", "hexValue":"#86431f"}
+		]},
+		{"combinacionId":122, "userId":1, "combinacionElementos":[
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"}
+		]},
+		{"combinacionId":123, "userId":1, "combinacionElementos":[
+			{"colorId":6, "userId":1, "colorName":"coral red", "hexValue":"#f09082"},
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"}
+		]},
+		{"combinacionId":124, "userId":1, "combinacionElementos":[
+			{"colorId":94, "userId":1, "colorName":"olive yellow", "hexValue":"#aba64c"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"},
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"}
+		]},
+		{"combinacionId":125, "userId":1, "combinacionElementos":[
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"},
+			{"colorId":4, "userId":1, "colorName":"fawn", "hexValue":"#d6b8aa"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"}
+		]},
+		{"combinacionId":126, "userId":1, "combinacionElementos":[
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"}
+		]},
+		{"combinacionId":127, "userId":1, "combinacionElementos":[
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"},
+			{"colorId":99, "userId":1, "colorName":"pistachio green", "hexValue":"#649278"},
+			{"colorId":142, "userId":1, "colorName":"dark soft violet", "hexValue":"#635b98"}
+		]},
+		{"combinacionId":128, "userId":1, "combinacionElementos":[
+			{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"},
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"}
+		]},
+		{"combinacionId":129, "userId":1, "combinacionElementos":[
+			{"colorId":70, "userId":1, "colorName":"khaki", "hexValue":"#c49007"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"}
+		]},
+		{"combinacionId":130, "userId":1, "combinacionElementos":[
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":131, "userId":1, "combinacionElementos":[
+			{"colorId":66, "userId":1, "colorName":"english red", "hexValue":"#d86310"},
+			{"colorId":119, "userId":1, "colorName":"peacock blue", "hexValue":"#008c97"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":132, "userId":1, "combinacionElementos":[
+			{"colorId":72, "userId":1, "colorName":"citrine", "hexValue":"#ad9d13"},
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":133, "userId":1, "combinacionElementos":[
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":34, "userId":1, "colorName":"vandyke red", "hexValue":"#8c1d19"},
+			{"colorId":72, "userId":1, "colorName":"citrine", "hexValue":"#ad9d13"}
+		]},
+		{"combinacionId":134, "userId":1, "combinacionElementos":[
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"}
+		]},
+		{"combinacionId":135, "userId":1, "combinacionElementos":[
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"}
+		]},
+		{"combinacionId":136, "userId":1, "combinacionElementos":[
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+			{"colorId":22, "userId":1, "colorName":"scarlet", "hexValue":"#cf2438"},
+			{"colorId":104, "userId":1, "colorName":"dull viridian green", "hexValue":"#008e5c"}
+		]},
+		{"combinacionId":137, "userId":1, "combinacionElementos":[
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"},
+			{"colorId":99, "userId":1, "colorName":"pistachio green", "hexValue":"#649278"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"}
+		]},
+		{"combinacionId":138, "userId":1, "combinacionElementos":[
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+			{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"}
+		]},
+		{"combinacionId":139, "userId":1, "combinacionElementos":[
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"}
+		]},
+		{"combinacionId":140, "userId":1, "combinacionElementos":[
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"}
+		]},
+		{"combinacionId":141, "userId":1, "combinacionElementos":[
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":91, "userId":1, "colorName":"yellow green", "hexValue":"#b6d565"}
+		]},
+		{"combinacionId":142, "userId":1, "combinacionElementos":[
+			{"colorId":27, "userId":1, "colorName":"hydrangea red", "hexValue":"#ab3a45"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":69, "userId":1, "colorName":"sulphine yellow", "hexValue":"#c9a800"}
+		]},
+		{"combinacionId":143, "userId":1, "combinacionElementos":[
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":137, "userId":1, "colorName":"lilac", "hexValue":"#bf87b0"}
+		]},
+		{"combinacionId":144, "userId":1, "combinacionElementos":[
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"}
+		]},
+		{"combinacionId":145, "userId":1, "combinacionElementos":[
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+			{"colorId":32, "userId":1, "colorName":"brown", "hexValue":"#86431f"},
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"}
+		]},
+		{"combinacionId":146, "userId":1, "combinacionElementos":[
+			{"colorId":70, "userId":1, "colorName":"khaki", "hexValue":"#c49007"},
+			{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"},
+			{"colorId":82, "userId":1, "colorName":"deep grayish olive", "hexValue":"#6c6036"}
+		]},
+		{"combinacionId":147, "userId":1, "combinacionElementos":[
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":34, "userId":1, "colorName":"vandyke red", "hexValue":"#8c1d19"},
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"}
+		]},
+		{"combinacionId":148, "userId":1, "combinacionElementos":[
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"},
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"}
+		]},
+		{"combinacionId":149, "userId":1, "combinacionElementos":[
+			{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"},
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"}
+		]},
+		{"combinacionId":150, "userId":1, "combinacionElementos":[
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"},
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"},
+			{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"}
+		]},
+		{"combinacionId":151, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":152, "userId":1, "combinacionElementos":[
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"}
+		]},
+		{"combinacionId":153, "userId":1, "combinacionElementos":[
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"}
+		]},
+		{"combinacionId":154, "userId":1, "combinacionElementos":[
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"}
+		]},
+		{"combinacionId":155, "userId":1, "combinacionElementos":[
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":16, "userId":1, "colorName":"jasper red", "hexValue":"#e74d0b"},
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"}
+		]},
+		{"combinacionId":156, "userId":1, "combinacionElementos":[
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"}
+		]},
+		{"combinacionId":157, "userId":1, "combinacionElementos":[
+			{"colorId":35, "userId":1, "colorName":"pansy purple", "hexValue":"#870836"},
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"},
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"}
+		]},
+		{"combinacionId":158, "userId":1, "combinacionElementos":[
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"},
+			{"colorId":93, "userId":1, "colorName":"night green", "hexValue":"#89c122"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"}
+		]},
+		{"combinacionId":159, "userId":1, "combinacionElementos":[
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"},
+			{"colorId":70, "userId":1, "colorName":"khaki", "hexValue":"#c49007"},
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"}
+		]},
+		{"combinacionId":160, "userId":1, "combinacionElementos":[
+			{"colorId":125, "userId":1, "colorName":"dark medici blue", "hexValue":"#527177"},
+			{"colorId":83, "userId":1, "colorName":"pale raw umber", "hexValue":"#7a5329"},
+			{"colorId":69, "userId":1, "colorName":"sulphine yellow", "hexValue":"#c9a800"}
+		]},
+		{"combinacionId":161, "userId":1, "combinacionElementos":[
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"},
+			{"colorId":32, "userId":1, "colorName":"brown", "hexValue":"#86431f"}
+		]},
+		{"combinacionId":162, "userId":1, "combinacionElementos":[
+			{"colorId":97, "userId":1, "colorName":"rainette green", "hexValue":"#84925e"},
+			{"colorId":11, "userId":1, "colorName":"old rose", "hexValue":"#d46a75"},
+			{"colorId":137, "userId":1, "colorName":"lilac", "hexValue":"#bf87b0"}
+		]},
+		{"combinacionId":163, "userId":1, "combinacionElementos":[
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"}
+		]},
+		{"combinacionId":164, "userId":1, "combinacionElementos":[
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":18, "userId":1, "colorName":"red orange", "hexValue":"#db3915"}
+		]},
+		{"combinacionId":165, "userId":1, "combinacionElementos":[
+			{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"},
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"},
+			{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"}
+		]},
+		{"combinacionId":166, "userId":1, "combinacionElementos":[
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"},
+			{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+			{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"}
+		]},
+		{"combinacionId":167, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"},
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"}
+		]},
+		{"combinacionId":168, "userId":1, "combinacionElementos":[
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":146, "userId":1, "colorName":"vernonia purple", "hexValue":"#94495e"}
+		]},
+		{"combinacionId":169, "userId":1, "combinacionElementos":[
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"}
+		]},
+		{"combinacionId":170, "userId":1, "combinacionElementos":[
+			{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"},
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"}
+		]},
+		{"combinacionId":171, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"},
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"}
+		]},
+		{"combinacionId":172, "userId":1, "combinacionElementos":[
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"}
+		]},
+		{"combinacionId":173, "userId":1, "combinacionElementos":[
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":174, "userId":1, "combinacionElementos":[
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"},
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"}
+		]},
+		{"combinacionId":175, "userId":1, "combinacionElementos":[
+			{"colorId":53, "userId":1, "colorName":"olive buff", "hexValue":"#ced19a"},
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":143, "userId":1, "colorName":"blue violet", "hexValue":"#624498"}
+		]},
+		{"combinacionId":176, "userId":1, "combinacionElementos":[
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"},
+			{"colorId":1, "userId":1, "colorName":"hermosa pink", "hexValue":"#f7c9d5"},
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"}
+		]},
+		{"combinacionId":177, "userId":1, "combinacionElementos":[
+			{"colorId":73, "userId":1, "colorName":"buffy citrine", "hexValue":"#9e8d43"},
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"}
+		]},
+		{"combinacionId":178, "userId":1, "combinacionElementos":[
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"}
+		]},
+		{"combinacionId":179, "userId":1, "combinacionElementos":[
+			{"colorId":18, "userId":1, "colorName":"red orange", "hexValue":"#db3915"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"}
+		]},
+		{"combinacionId":180, "userId":1, "combinacionElementos":[
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"}
+		]},
+		{"combinacionId":181, "userId":1, "combinacionElementos":[
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"}
+		]},
+		{"combinacionId":182, "userId":1, "combinacionElementos":[
+			{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"}
+		]},
+		{"combinacionId":183, "userId":1, "combinacionElementos":[
+			{"colorId":146, "userId":1, "colorName":"vernonia purple", "hexValue":"#94495e"},
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+			{"colorId":145, "userId":1, "colorName":"plumbeous", "hexValue":"#72737c"}
+		]},
+		{"combinacionId":184, "userId":1, "combinacionElementos":[
+			{"colorId":75, "userId":1, "colorName":"light grayish olive", "hexValue":"#8e885e"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"}
+		]},
+		{"combinacionId":185, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"}
+		]},
+		{"combinacionId":186, "userId":1, "combinacionElementos":[
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"}
+		]},
+		{"combinacionId":187, "userId":1, "combinacionElementos":[
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"},
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"}
+		]},
+		{"combinacionId":188, "userId":1, "combinacionElementos":[
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":97, "userId":1, "colorName":"rainette green", "hexValue":"#84925e"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"}
+		]},
+		{"combinacionId":189, "userId":1, "combinacionElementos":[
+			{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"}
+		]},
+		{"combinacionId":190, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":66, "userId":1, "colorName":"english red", "hexValue":"#d86310"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"}
+		]},
+		{"combinacionId":191, "userId":1, "combinacionElementos":[
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"}
+		]},
+		{"combinacionId":192, "userId":1, "combinacionElementos":[
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":145, "userId":1, "colorName":"plumbeous", "hexValue":"#72737c"},
+			{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"}
+		]},
+		{"combinacionId":193, "userId":1, "combinacionElementos":[
+			{"colorId":102, "userId":1, "colorName":"light porcelain green", "hexValue":"#008e89"},
+			{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"}
+		]},
+		{"combinacionId":194, "userId":1, "combinacionElementos":[
+			{"colorId":16, "userId":1, "colorName":"jasper red", "hexValue":"#e74d0b"},
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"},
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"}
+		]},
+		{"combinacionId":195, "userId":1, "combinacionElementos":[
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"}
+		]},
+		{"combinacionId":196, "userId":1, "combinacionElementos":[
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"},
+			{"colorId":143, "userId":1, "colorName":"blue violet", "hexValue":"#624498"},
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"}
+		]},
+		{"combinacionId":197, "userId":1, "combinacionElementos":[
+			{"colorId":142, "userId":1, "colorName":"dark soft violet", "hexValue":"#635b98"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"}
+		]},
+		{"combinacionId":198, "userId":1, "combinacionElementos":[
+			{"colorId":103, "userId":1, "colorName":"green", "hexValue":"#3a9864"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"}
+		]},
+		{"combinacionId":199, "userId":1, "combinacionElementos":[
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":21, "userId":1, "colorName":"ocher red", "hexValue":"#b45446"},
+			{"colorId":81, "userId":1, "colorName":"light brownish olive", "hexValue":"#8b7445"}
+		]},
+		{"combinacionId":200, "userId":1, "combinacionElementos":[
+			{"colorId":53, "userId":1, "colorName":"olive buff", "hexValue":"#ced19a"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":98, "userId":1, "colorName":"chromium green", "hexValue":"#7b9c6e"}
+		]},
+		{"combinacionId":201, "userId":1, "combinacionElementos":[
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"}
+		]},
+		{"combinacionId":202, "userId":1, "combinacionElementos":[
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":203, "userId":1, "combinacionElementos":[
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"},
+			{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"}
+		]},
+		{"combinacionId":204, "userId":1, "combinacionElementos":[
+			{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"}
+			]},
+		{"combinacionId":205, "userId":1, "combinacionElementos":[
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"},
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"}
+		]},
+		{"combinacionId":206, "userId":1, "combinacionElementos":[
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":67, "userId":1, "colorName":"cinnamon rufous", "hexValue":"#c97938"},
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"}
+		]},
+		{"combinacionId":207, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"},
+			{"colorId":79, "userId":1, "colorName":"sudan brown", "hexValue":"#ad6b4c"}
+		]},
+		{"combinacionId":208, "userId":1, "combinacionElementos":[
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"}
+		]},
+		{"combinacionId":209, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"}
+		]},
+		{"combinacionId":210, "userId":1, "combinacionElementos":[
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"}
+		]},
+		{"combinacionId":211, "userId":1, "combinacionElementos":[
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"},
+			{"colorId":63, "userId":1, "colorName":"apricot orange", "hexValue":"#f18f43"},
+			{"colorId":94, "userId":1, "colorName":"olive yellow", "hexValue":"#aba64c"}
+		]},
+		{"combinacionId":212, "userId":1, "combinacionElementos":[
+			{"colorId":78, "userId":1, "colorName":"orange citrine", "hexValue":"#a37721"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"}
+		]},
+		{"combinacionId":213, "userId":1, "combinacionElementos":[
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"},
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"}
+		]},
+		{"combinacionId":214, "userId":1, "combinacionElementos":[
+			{"colorId":79, "userId":1, "colorName":"sudan brown", "hexValue":"#ad6b4c"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"}
+		]},
+		{"combinacionId":215, "userId":1, "combinacionElementos":[
+			{"colorId":138, "userId":1, "colorName":"eupatorium purple", "hexValue":"#c1518d"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"}
+		]},
+		{"combinacionId":216, "userId":1, "combinacionElementos":[
+			{"colorId":16, "userId":1, "colorName":"jasper red", "hexValue":"#e74d0b"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":103, "userId":1, "colorName":"green", "hexValue":"#3a9864"}
+			
+		]},
+		{"combinacionId":217, "userId":1, "combinacionElementos":[
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+			{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"}
+		]},
+		{"combinacionId":218, "userId":1, "combinacionElementos":[
+			{"colorId":145, "userId":1, "colorName":"plumbeous", "hexValue":"#72737c"},
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"}
+		]},
+		{"combinacionId":219, "userId":1, "combinacionElementos":[
+			{"colorId":16, "userId":1, "colorName":"jasper red", "hexValue":"#e74d0b"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":98, "userId":1, "colorName":"chromium green", "hexValue":"#7b9c6e"}
+		]},
+		{"combinacionId":220, "userId":1, "combinacionElementos":[
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":26, "userId":1, "colorName":"pomegranate purple", "hexValue":"#bc0b50"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"}
+		]},
+		{"combinacionId":221, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"}
+		]},
+		{"combinacionId":222, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"},
+			{"colorId":68, "userId":1, "colorName":"orange rufous", "hexValue":"#c76c0f"}
+		]},
+		{"combinacionId":223, "userId":1, "combinacionElementos":[
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":224, "userId":1, "combinacionElementos":[
+			{"colorId":125, "userId":1, "colorName":"dark medici blue", "hexValue":"#527177"},
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"},
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"}
+		]},
+		{"combinacionId":225, "userId":1, "combinacionElementos":[
+			{"colorId":147, "userId":1, "colorName":"dark slate purple", "hexValue":"#703e51"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"}
+		]},
+		{"combinacionId":226, "userId":1, "combinacionElementos":[
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"}
+		]},
+		{"combinacionId":227, "userId":1, "combinacionElementos":[
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":1, "userId":1, "colorName":"hermosa pink", "hexValue":"#f7c9d5"}
+		]},
+		{"combinacionId":228, "userId":1, "combinacionElementos":[
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"}
+		]},
+		{"combinacionId":229, "userId":1, "combinacionElementos":[
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"}
+		]},
+		{"combinacionId":230, "userId":1, "combinacionElementos":[
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"}
+		]},
+		{"combinacionId":231, "userId":1, "combinacionElementos":[
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":3, "userId":1, "colorName":"cameo pink", "hexValue":"#e5bcbc"},
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"}
+		]},
+		{"combinacionId":232, "userId":1, "combinacionElementos":[
+			{"colorId":132, "userId":1, "colorName":"deep indigo", "hexValue":"#001231"},
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"}
+		]},
+		{"combinacionId":233, "userId":1, "combinacionElementos":[
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":73, "userId":1, "colorName":"buffy citrine", "hexValue":"#9e8d43"}
+		]},
+		{"combinacionId":234, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":83, "userId":1, "colorName":"pale raw umber", "hexValue":"#7a5329"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"}
+		]},
+		{"combinacionId":235, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"}
+		]},
+		{"combinacionId":236, "userId":1, "combinacionElementos":[
+			{"colorId":144, "userId":1, "colorName":"purple drab", "hexValue":"#8e585a"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":70, "userId":1, "colorName":"khaki", "hexValue":"#c49007"}
+		]},
+		{"combinacionId":237, "userId":1, "combinacionElementos":[
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"}
+		]},
+		{"combinacionId":238, "userId":1, "combinacionElementos":[
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"},
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"}
+		]},
+		{"combinacionId":239, "userId":1, "combinacionElementos":[
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"},
+			{"colorId":58, "userId":1, "colorName":"pyrite yellow", "hexValue":"#d0ba48"}
+		]},
+		{"combinacionId":240, "userId":1, "combinacionElementos":[
+			{"colorId":7, "userId":1, "colorName":"fresh color", "hexValue":"#f1947c"},
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"},
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"}
+		]},
+		{"combinacionId":241, "userId":1, "combinacionElementos":[
+			{"colorId":18, "userId":1, "colorName":"red orange", "hexValue":"#db3915"},
+			{"colorId":125, "userId":1, "colorName":"dark medici blue", "hexValue":"#527177"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":51, "userId":1, "colorName":"isabella color", "hexValue":"#d0b06b"}
+		]},
+		{"combinacionId":242, "userId":1, "combinacionElementos":[
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+		]},
+		{"combinacionId":243, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":80, "userId":1, "colorName":"olive green", "hexValue":"#71773a"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"}
+		]},
+		{"combinacionId":244, "userId":1, "combinacionElementos":[
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":15, "userId":1, "colorName":"vinaceous tawny", "hexValue":"#cb6012"},
+			{"colorId":96, "userId":1, "colorName":"andover green", "hexValue":"#708277"}
+		]},
+		{"combinacionId":245, "userId":1, "combinacionElementos":[
+			{"colorId":105, "userId":1, "colorName":"oil green", "hexValue":"#849626"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"}
+		]},
+		{"combinacionId":246, "userId":1, "combinacionElementos":[
+			{"colorId":28, "userId":1, "colorName":"brick red", "hexValue":"#b03f16"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"}
+		]},
+		{"combinacionId":247, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"}
+		]},
+		{"combinacionId":248, "userId":1, "combinacionElementos":[
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"},
+			{"colorId":70, "userId":1, "colorName":"khaki", "hexValue":"#c49007"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":147, "userId":1, "colorName":"dark slate purple", "hexValue":"#703e51"}
+		]},
+		{"combinacionId":249, "userId":1, "combinacionElementos":[
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"},
+			{"colorId":125, "userId":1, "colorName":"dark medici blue", "hexValue":"#527177"},
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"}
+		]},
+		{"combinacionId":250, "userId":1, "combinacionElementos":[
+			{"colorId":58, "userId":1, "colorName":"pyrite yellow", "hexValue":"#d0ba48"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"}
+		]},
+		{"combinacionId":251, "userId":1, "combinacionElementos":[
+			{"colorId":31, "userId":1, "colorName":"red", "hexValue":"#ad163b"},
+			{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"}
+		]},
+		{"combinacionId":252, "userId":1, "combinacionElementos":[
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":69, "userId":1, "colorName":"sulphine yellow", "hexValue":"#c9a800"},
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":253, "userId":1, "combinacionElementos":[
+			{"colorId":63, "userId":1, "colorName":"apricot orange", "hexValue":"#f18f43"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"}
+		]},
+		{"combinacionId":254, "userId":1, "combinacionElementos":[
+			{"colorId":136, "userId":1, "colorName":"laelia pink", "hexValue":"#cf97ab"},
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"}
+		]},
+		{"combinacionId":255, "userId":1, "combinacionElementos":[
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":58, "userId":1, "colorName":"pyrite yellow", "hexValue":"#d0ba48"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":256, "userId":1, "combinacionElementos":[
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"},
+			{"colorId":104, "userId":1, "colorName":"dull viridian green", "hexValue":"#008e5c"}
+		]},
+		{"combinacionId":257, "userId":1, "combinacionElementos":[
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":17, "userId":1, "colorName":"spectrum red", "hexValue":"#df0716"},
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"}
+		]},
+		{"combinacionId":258, "userId":1, "combinacionElementos":[
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"}
+		]},
+		{"combinacionId":259, "userId":1, "combinacionElementos":[
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"},
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"}
+		]},
+		{"combinacionId":260, "userId":1, "combinacionElementos":[
+			{"colorId":11, "userId":1, "colorName":"old rose", "hexValue":"#d46a75"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":89, "userId":1, "colorName":"glaucous green", "hexValue":"#bed4c7"},
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"}
+		]},
+		{"combinacionId":261, "userId":1, "combinacionElementos":[
+			{"colorId":157, "userId":1, "colorName":"warm gray", "hexValue":"#acac9e"},
+			{"colorId":31, "userId":1, "colorName":"red", "hexValue":"#ad163b"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"}
+		]},
+		{"combinacionId":262, "userId":1, "combinacionElementos":[
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+			{"colorId":72, "userId":1, "colorName":"citrine", "hexValue":"#ad9d13"}
+		]},
+		{"combinacionId":263, "userId":1, "combinacionElementos":[
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":264, "userId":1, "combinacionElementos":[
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":118, "userId":1, "colorName":"cerulian blue", "hexValue":"#008ea5"},
+			{"colorId":18, "userId":1, "colorName":"red orange", "hexValue":"#db3915"},
+			{"colorId":90, "userId":1, "colorName":"dark greenish glaucous", "hexValue":"#bfc9ac"}
+		]},
+		{"combinacionId":265, "userId":1, "combinacionElementos":[
+			{"colorId":94, "userId":1, "colorName":"olive yellow", "hexValue":"#aba64c"},
+			{"colorId":11, "userId":1, "colorName":"old rose", "hexValue":"#d46a75"},
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"}
+		]},
+		{"combinacionId":266, "userId":1, "combinacionElementos":[
+			{"colorId":17, "userId":1, "colorName":"spectrum red", "hexValue":"#df0716"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":97, "userId":1, "colorName":"rainette green", "hexValue":"#84925e"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"}
+		]},
+		{"combinacionId":267, "userId":1, "combinacionElementos":[
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"},
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"}
+		]},
+		{"combinacionId":268, "userId":1, "combinacionElementos":[
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":269, "userId":1, "combinacionElementos":[
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+		]},
+		{"combinacionId":270, "userId":1, "combinacionElementos":[
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":80, "userId":1, "colorName":"olive green", "hexValue":"#71773a"},
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"}			
+		]},
+		{"combinacionId":271, "userId":1, "combinacionElementos":[
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"},
+			{"colorId":26, "userId":1, "colorName":"pomegranate purple", "hexValue":"#bc0b50"},
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"}
+		]},
+		{"combinacionId":272, "userId":1, "combinacionElementos":[
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":64, "userId":1, "colorName":"orange", "hexValue":"#ed7100"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"}
+		]},
+		{"combinacionId":273, "userId":1, "combinacionElementos":[
+			{"colorId":35, "userId":1, "colorName":"pansy purple", "hexValue":"#870836"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+			{"colorId":1, "userId":1, "colorName":"hermosa pink", "hexValue":"#f7c9d5"},
+			{"colorId":79, "userId":1, "colorName":"sudan brown", "hexValue":"#ad6b4c"}
+		]},
+		{"combinacionId":274, "userId":1, "combinacionElementos":[
+			{"colorId":74, "userId":1, "colorName":"dark citrine", "hexValue":"#978c56"},
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"}
+		]},
+		{"combinacionId":275, "userId":1, "combinacionElementos":[
+			{"colorId":19, "userId":1, "colorName":"etruscan red", "hexValue":"#ca503c"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"},
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"},
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"}
+		]},
+		{"combinacionId":276, "userId":1, "combinacionElementos":[
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":91, "userId":1, "colorName":"yellow green", "hexValue":"#b6d565"}
+		]},
+		{"combinacionId":277, "userId":1, "combinacionElementos":[
+			{"colorId":10, "userId":1, "colorName":"spinel red", "hexValue":"#eb6e8d"},
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"}
+		]},
+		{"combinacionId":278, "userId":1, "combinacionElementos":[
+			{"colorId":59, "userId":1, "colorName":"olive ocher", "hexValue":"#dabb27"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"}
+		]},
+		{"combinacionId":279, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":130, "userId":1, "colorName":"dark tyrian blue", "hexValue":"#043451"},
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"}
+		]},
+		{"combinacionId":280, "userId":1, "combinacionElementos":[
+			{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"},
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":136, "userId":1, "colorName":"laelia pink", "hexValue":"#cf97ab"}
+		]},
+		{"combinacionId":281, "userId":1, "combinacionElementos":[
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"}
+		]},
+		{"combinacionId":282, "userId":1, "combinacionElementos":[
+			{"colorId":137, "userId":1, "colorName":"lilac", "hexValue":"#bf87b0"},
+			{"colorId":52, "userId":1, "colorName":"maple", "hexValue":"#d1ac6b"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"}
+		]},
+		{"combinacionId":283, "userId":1, "combinacionElementos":[
+			{"colorId":36, "userId":1, "colorName":"pale burnt lake", "hexValue":"#8a2421"},
+			{"colorId":98, "userId":1, "colorName":"chromium green", "hexValue":"#7b9c6e"},
+			{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"},
+			{"colorId":21, "userId":1, "colorName":"ocher red", "hexValue":"#b45446"}
+		]},
+		{"combinacionId":284, "userId":1, "combinacionElementos":[
+			{"colorId":12, "userId":1, "colorName":"euginia red", "hexValue":"#e05e53"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"}
+		]},
+		{"combinacionId":285, "userId":1, "combinacionElementos":[
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":286, "userId":1, "combinacionElementos":[
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+			{"colorId":119, "userId":1, "colorName":"peacock blue", "hexValue":"#008c97"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"}
+		]},
+		{"combinacionId":287, "userId":1, "combinacionElementos":[
+			{"colorId":112, "userId":1, "colorName":"pale kings blue", "hexValue":"#b4daea"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":58, "userId":1, "colorName":"pyrite yellow", "hexValue":"#d0ba48"},
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"}
+		]},
+		{"combinacionId":288, "userId":1, "combinacionElementos":[
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":148, "userId":1, "colorName":"taupe brown", "hexValue":"#854558"},
+			{"colorId":84, "userId":1, "colorName":"sepia", "hexValue":"#6d4e14"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+		]},
+		{"combinacionId":289, "userId":1, "combinacionElementos":[
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"},
+			{"colorId":92, "userId":1, "colorName":"light green yellow", "hexValue":"#ccd63d"}
+		]},
+		{"combinacionId":290, "userId":1, "combinacionElementos":[
+			{"colorId":108, "userId":1, "colorName":"lincoln green", "hexValue":"#5a5c2f"},
+			{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"}
+		]},
+		{"combinacionId":291, "userId":1, "combinacionElementos":[
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":92, "userId":1, "colorName":"light green yellow", "hexValue":"#ccd63d"}
+		]},
+		{"combinacionId":292, "userId":1, "combinacionElementos":[
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"},
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":51, "userId":1, "colorName":"isabella color", "hexValue":"#d0b06b"}
+		]},
+		{"combinacionId":293, "userId":1, "combinacionElementos":[
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":95, "userId":1, "colorName":"artemisia green", "hexValue":"#749793"},
+			{"colorId":103, "userId":1, "colorName":"green", "hexValue":"#3a9864"}
+		]},
+		{"combinacionId":294, "userId":1, "combinacionElementos":[
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":295, "userId":1, "combinacionElementos":[
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"},
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"}
+		]},
+		{"combinacionId":296, "userId":1, "combinacionElementos":[
+			{"colorId":83, "userId":1, "colorName":"pale raw umber", "hexValue":"#7a5329"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"}
+		]},
+		{"combinacionId":297, "userId":1, "combinacionElementos":[
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"},
+			{"colorId":80, "userId":1, "colorName":"olive green", "hexValue":"#71773a"}
+		]},
+		{"combinacionId":298, "userId":1, "combinacionElementos":[
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"}
+		]},
+		{"combinacionId":299, "userId":1, "combinacionElementos":[
+			{"colorId":105, "userId":1, "colorName":"oil green", "hexValue":"#849626"},
+			{"colorId":49, "userId":1, "colorName":"vinaceous cinnamon", "hexValue":"#efae8d"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":24, "userId":1, "colorName":"indian lake", "hexValue":"#ca3464"}
+		]},
+		{"combinacionId":300, "userId":1, "combinacionElementos":[
+			{"colorId":116, "userId":1, "colorName":"calamine blue", "hexValue":"#83ccd2"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":301, "userId":1, "combinacionElementos":[
+			{"colorId":17, "userId":1, "colorName":"spectrum red", "hexValue":"#df0716"},
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":97, "userId":1, "colorName":"rainette green", "hexValue":"#84925e"}
+		]},
+		{"combinacionId":302, "userId":1, "combinacionElementos":[
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"}
+		]},
+		{"combinacionId":303, "userId":1, "combinacionElementos":[
+			{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"}
+		]},
+		{"combinacionId":304, "userId":1, "combinacionElementos":[
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":74, "userId":1, "colorName":"dark citrine", "hexValue":"#978c56"},
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"}
+		]},
+		{"combinacionId":305, "userId":1, "combinacionElementos":[
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"}
+		]},	
+		{"combinacionId":306, "userId":1, "combinacionElementos":[
+			{"colorId":104, "userId":1, "colorName":"dull viridian green", "hexValue":"#008e5c"},
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"},
+			{"colorId":101, "userId":1, "colorName":"benzol green", "hexValue":"#009086"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"}
+		]},
+		{"combinacionId":307, "userId":1, "combinacionElementos":[
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+			{"colorId":134, "userId":1, "colorName":"grayish lavender blue", "hexValue":"#c0b8db"},
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"}
+		]},
+		{"combinacionId":308, "userId":1, "combinacionElementos":[
+			{"colorId":66, "userId":1, "colorName":"english red", "hexValue":"#d86310"},
+			{"colorId":4, "userId":1, "colorName":"fawn", "hexValue":"#d6b8aa"},
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":22, "userId":1, "colorName":"scarlet", "hexValue":"#cf2438"}
+		]},
+		{"combinacionId":309, "userId":1, "combinacionElementos":[
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+			{"colorId":63, "userId":1, "colorName":"apricot orange", "hexValue":"#f18f43"},
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"}
+		]},
+		{"combinacionId":310, "userId":1, "combinacionElementos":[
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":45, "userId":1, "colorName":"pinkish cinnamon", "hexValue":"#f0bc7e"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":311, "userId":1, "combinacionElementos":[
+			{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"},
+			{"colorId":90, "userId":1, "colorName":"dark greenish glaucous", "hexValue":"#bfc9ac"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":92, "userId":1, "colorName":"light green yellow", "hexValue":"#ccd63d"}
+		]},
+		{"combinacionId":312, "userId":1, "combinacionElementos":[
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":95, "userId":1, "colorName":"artemisia green", "hexValue":"#749793"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"},
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"}
+		]},
+		{"combinacionId":313, "userId":1, "combinacionElementos":[
+			{"colorId":23, "userId":1, "colorName":"carmine", "hexValue":"#ce002d"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":106, "userId":1, "colorName":"diamine green", "hexValue":"#00873a"},
+			{"colorId":55, "userId":1, "colorName":"yellow", "hexValue":"#fff100"}
+		]},
+		{"combinacionId":314, "userId":1, "combinacionElementos":[
+			{"colorId":153, "userId":1, "colorName":"dasky madder violet", "hexValue":"#4c194a"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"}
+		]},
+		{"combinacionId":315, "userId":1, "combinacionElementos":[
+			{"colorId":48, "userId":1, "colorName":"golden yellow", "hexValue":"#f3a94b"},
+			{"colorId":138, "userId":1, "colorName":"eupatorium purple", "hexValue":"#c1518d"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"}
+		]},
+		{"combinacionId":316, "userId":1, "combinacionElementos":[
+			{"colorId":151, "userId":1, "colorName":"red violet", "hexValue":"#561c68"},
+			{"colorId":34, "userId":1, "colorName":"vandyke red", "hexValue":"#8c1d19"},
+			{"colorId":104, "userId":1, "colorName":"dull viridian green", "hexValue":"#008e5c"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"}
+		]},
+		{"combinacionId":317, "userId":1, "combinacionElementos":[
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"},
+			{"colorId":44, "userId":1, "colorName":"light pinkish cinnamon", "hexValue":"#face9d"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"}
+		]},
+		{"combinacionId":318, "userId":1, "combinacionElementos":[
+			{"colorId":81, "userId":1, "colorName":"light brownish olive", "hexValue":"#8b7445"},
+			{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":109, "userId":1, "colorName":"blackish olive", "hexValue":"#48583e"}
+		]},
+		{"combinacionId":319, "userId":1, "combinacionElementos":[
+			{"colorId":57, "userId":1, "colorName":"apricot yellow", "hexValue":"#ffe100"},
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"},
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"}
+		]},	
+		{"combinacionId":320, "userId":1, "combinacionElementos":[
+			{"colorId":105, "userId":1, "colorName":"oil green", "hexValue":"#849626"},
+			{"colorId":6, "userId":1, "colorName":"coral red", "hexValue":"#f09082"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"}
+		]},
+		{"combinacionId":321, "userId":1, "combinacionElementos":[
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":5, "userId":1, "colorName":"light brown drab", "hexValue":"#c1a19e"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"}
+		]},
+		{"combinacionId":322, "userId":1, "combinacionElementos":[
+			{"colorId":143, "userId":1, "colorName":"blue violet", "hexValue":"#624498"},
+			{"colorId":138, "userId":1, "colorName":"eupatorium purple", "hexValue":"#c1518d"},
+			{"colorId":28, "userId":1, "colorName":"brick red", "hexValue":"#b03f16"},
+			{"colorId":17, "userId":1, "colorName":"spectrum red", "hexValue":"#df0716"}
+		]},
+		{"combinacionId":323, "userId":1, "combinacionElementos":[
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"},
+			{"colorId":71, "userId":1, "colorName":"citron yellow", "hexValue":"#b7bc22"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":85, "userId":1, "colorName":"madder brown", "hexValue":"#802911"}
+		]},
+		{"combinacionId":324, "userId":1, "combinacionElementos":[
+			{"colorId":30, "userId":1, "colorName":"pompeian red", "hexValue":"#b21931"},
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":121, "userId":1, "colorName":"olympic blue", "hexValue":"#5981b5"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"}
+		]},
+		{"combinacionId":325, "userId":1, "combinacionElementos":[
+			{"colorId":133, "userId":1, "colorName":"deep slate green", "hexValue":"#0c2f2c"},
+			{"colorId":41, "userId":1, "colorName":"naples yellow", "hexValue":"#fdeca3"},
+			{"colorId":13, "userId":1, "colorName":"eugenia red", "hexValue":"#db4f58"},
+			{"colorId":60, "userId":1, "colorName":"yellow ocher", "hexValue":"#e5bc2a"}
+		]},
+		{"combinacionId":326, "userId":1, "combinacionElementos":[
+			{"colorId":93, "userId":1, "colorName":"night green", "hexValue":"#89c122"},
+			{"colorId":39, "userId":1, "colorName":"sulphur yellow", "hexValue":"#f8f2c7"},
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":91, "userId":1, "colorName":"yellow green", "hexValue":"#b6d565"}
+		]},
+		{"combinacionId":327, "userId":1, "combinacionElementos":[
+			{"colorId":54, "userId":1, "colorName":"ecru", "hexValue":"#ccb997"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":14, "userId":1, "colorName":"law sienna", "hexValue":"#c37608"}
+		]},
+		{"combinacionId":328, "userId":1, "combinacionElementos":[
+			{"colorId":28, "userId":1, "colorName":"brick red", "hexValue":"#b03f16"},
+			{"colorId":102, "userId":1, "colorName":"light porcelain green", "hexValue":"#008e89"},
+			{"colorId":63, "userId":1, "colorName":"apricot orange", "hexValue":"#f18f43"},
+			{"colorId":87, "userId":1, "colorName":"vandyke brown", "hexValue":"#523412"}
+		]},
+		{"combinacionId":329, "userId":1, "combinacionElementos":[
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"}
+		]},
+		{"combinacionId":330, "userId":1, "combinacionElementos":[
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"},
+			{"colorId":114, "userId":1, "colorName":"salvia blue", "hexValue":"#a2b3ce"},
+			{"colorId":53, "userId":1, "colorName":"olive buff", "hexValue":"#ced19a"},
+			{"colorId":120, "userId":1, "colorName":"green blue", "hexValue":"#008f97"}
+		]},
+		{"combinacionId":331, "userId":1, "combinacionElementos":[
+			{"colorId":139, "userId":1, "colorName":"light mauve", "hexValue":"#a070a8"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"},
+			{"colorId":24, "userId":1, "colorName":"indian lake", "hexValue":"#ca3464"},
+			{"colorId":131, "userId":1, "colorName":"dull violet black", "hexValue":"#001b45"}
+		]},
+		{"combinacionId":332, "userId":1, "combinacionElementos":[
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":6, "userId":1, "colorName":"coral red", "hexValue":"#f09082"},
+			{"colorId":22, "userId":1, "colorName":"scarlet", "hexValue":"#cf2438"}
+		]},
+		{"combinacionId":333, "userId":1, "combinacionElementos":[
+			{"colorId":115, "userId":1, "colorName":"cobalt green", "hexValue":"#a0d2a8"},
+			{"colorId":56, "userId":1, "colorName":"lemon yellow", "hexValue":"#faee2c"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"},
+			{"colorId":122, "userId":1, "colorName":"blue", "hexValue":"#0065b3"}
+		]},
+		{"combinacionId":334, "userId":1, "combinacionElementos":[
+			{"colorId":77, "userId":1, "colorName":"olive", "hexValue":"#8a8520"},
+			{"colorId":123, "userId":1, "colorName":"antwarp blue", "hexValue":"#006e93"},
+			{"colorId":91, "userId":1, "colorName":"yellow green", "hexValue":"#b6d565"},
+			{"colorId":43, "userId":1, "colorName":"seashell pink", "hexValue":"#fbdbc4"}
+		]},
+		{"combinacionId":335, "userId":1, "combinacionElementos":[
+			{"colorId":34, "userId":1, "colorName":"vandyke red", "hexValue":"#8c1d19"},
+			{"colorId":158, "userId":1, "colorName":"slate color", "hexValue":"#2d424a"},
+			{"colorId":62, "userId":1, "colorName":"yellow orange", "hexValue":"#f5a200"},
+			{"colorId":150, "userId":1, "colorName":"violet", "hexValue":"#453580"}
+		]},
+		{"combinacionId":336, "userId":1, "combinacionElementos":[
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":9, "userId":1, "colorName":"eosine pink", "hexValue":"#ed7e93"},
+			{"colorId":40, "userId":1, "colorName":"pale lemon yellow", "hexValue":"#fff4b3"},
+			{"colorId":109, "userId":1, "colorName":"blackish olive", "hexValue":"#48583e"}
+		]},
+		{"combinacionId":337, "userId":1, "combinacionElementos":[
+			{"colorId":38, "userId":1, "colorName":"vistoris lake", "hexValue":"#784244"},
+			{"colorId":149, "userId":1, "colorName":"violet carmine", "hexValue":"#713645"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":136, "userId":1, "colorName":"laelia pink", "hexValue":"#cf97ab"}
+		]},
+		{"combinacionId":338, "userId":1, "combinacionElementos":[
+			{"colorId":61, "userId":1, "colorName":"orange yellow", "hexValue":"#f9b900"},
+			{"colorId":135, "userId":1, "colorName":"grayish lavender", "hexValue":"#c7b0b8"},
+			{"colorId":126, "userId":1, "colorName":"dusky green", "hexValue":"#005147"},
+			{"colorId":29, "userId":1, "colorName":"carmine red", "hexValue":"#ad252f"}
+		]},
+		{"combinacionId":339, "userId":1, "combinacionElementos":[
+			{"colorId":66, "userId":1, "colorName":"english red", "hexValue":"#d86310"},
+			{"colorId":50, "userId":1, "colorName":"ochraceous salmon", "hexValue":"#dcab76"},
+			{"colorId":128, "userId":1, "colorName":"violet blue", "hexValue":"#393f68"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"}
+		]},
+		{"combinacionId":340, "userId":1, "combinacionElementos":[
+			{"colorId":65, "userId":1, "colorName":"peach red", "hexValue":"#ea5521"},
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":155, "userId":1, "colorName":"neutral gray", "hexValue":"#c0c7c6"}
+		]},
+		{"combinacionId":341, "userId":1, "combinacionElementos":[
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+			{"colorId":113, "userId":1, "colorName":"light glaucous blue", "hexValue":"#b0cfd7"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":8, "userId":1, "colorName":"grenadine pink", "hexValue":"#ef805f"}
+		]},
+		{"combinacionId":342, "userId":1, "combinacionElementos":[
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":47, "userId":1, "colorName":"cream yellow", "hexValue":"#fac55e"},
+			{"colorId":2, "userId":1, "colorName":"corinthian pink", "hexValue":"#f6bdc0"},
+			{"colorId":78, "userId":1, "colorName":"orange citrine", "hexValue":"#a37721"}
+		]},
+		{"combinacionId":343, "userId":1, "combinacionElementos":[
+			{"colorId":42, "userId":1, "colorName":"ivory buff", "hexValue":"#eedaa5"},
+			{"colorId":82, "userId":1, "colorName":"deep grayish olive", "hexValue":"#6c6036"},
+			{"colorId":129, "userId":1, "colorName":"vandar poel blue", "hexValue":"#00486c"},
+			{"colorId":20, "userId":1, "colorName":"burnt sienna", "hexValue":"#b65115"}
+		]},
+		{"combinacionId":344, "userId":1, "combinacionElementos":[
+			{"colorId":140, "userId":1, "colorName":"aconite violet", "hexValue":"#aa66a1"},
+			{"colorId":46, "userId":1, "colorName":"cinnamon buff", "hexValue":"#fbcc79"},
+			{"colorId":159, "userId":1, "colorName":"black", "hexValue":"#191210"},
+			{"colorId":127, "userId":1, "colorName":"deep lyons blue", "hexValue":"#003983"}
+		]},
+		{"combinacionId":345, "userId":1, "combinacionElementos":[
+			{"colorId":143, "userId":1, "colorName":"blue violet", "hexValue":"#624498"},
+			{"colorId":33, "userId":1, "colorName":"hays russet", "hexValue":"#833121"},
+			{"colorId":111, "userId":1, "colorName":"nile blue", "hexValue":"#c8e7e9"},
+			{"colorId":117, "userId":1, "colorName":"venice green", "hexValue":"#69c3be"}
+		]},
+		{"combinacionId":346, "userId":1, "combinacionElementos":[
+			{"colorId":92, "userId":1, "colorName":"light green yellow", "hexValue":"#ccd63d"},
+			{"colorId":25, "userId":1, "colorName":"rosolanc purple", "hexValue":"#b8366d"},
+			{"colorId":96, "userId":1, "colorName":"andover green", "hexValue":"#708277"},
+			{"colorId":88, "userId":1, "colorName":"turquoise green", "hexValue":"#c0e1ce"}
+		]},
+		{"combinacionId":347, "userId":1, "combinacionElementos":[
+			{"colorId":100, "userId":1, "colorName":"sea green", "hexValue":"#00ac95"},
+			{"colorId":124, "userId":1, "colorName":"helvetia blue", "hexValue":"#00558e"},
+			{"colorId":137, "userId":1, "colorName":"lilac", "hexValue":"#bf87b0"},
+			{"colorId":94, "userId":1, "colorName":"olive yellow", "hexValue":"#aba64c"}
+		]},
+		{"combinacionId":348, "userId":1, "combinacionElementos":[
+			{"colorId":152, "userId":1, "colorName":"cotinga purple", "hexValue":"#520f44"},
+			{"colorId":107, "userId":1, "colorName":"cossack green", "hexValue":"#3a793c"},
+			{"colorId":110, "userId":1, "colorName":"deep slate olive", "hexValue":"#263121"},
+			{"colorId":53, "userId":1, "colorName":"olive buff", "hexValue":"#ced19a"}
+		]}
+	]},
+	{"usuarios":[
+		{"usuarios":1, "name":"admin", "pass":"admin", "email":"admin@admin.com"}
+	]}
+]}
